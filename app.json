@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "CRUD de Produtos",
+    "slug": "crud-produtos-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.beatrizprazim.crudprodutos"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
